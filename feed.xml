@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Broken RSS Feed</title>
+        <link>http://localhost:8000/broken.xml</link>
+        <description>Invalid RSS XML</description>
+        <item>
+            <title>Test Item</title>
+            <link>http://example.com</link>
+            <description>Test Description
+            <pubDate>Tue, 19 Mar 2025 10:00:00 GMT</pubDate>
+        </item> <!-- Missing closing tag -->
+    </channel>
+</rss>
