@@ -3,12 +3,13 @@
     <channel>
         <title>Broken RSS Feed</title>
         <link>http://localhost:8000/broken.xml</link>
-        <description>Invalid RSS XML</description>
+        <description>Invalid RSS XML
         <item>
             <title>Test Item</title>
             <link>http://example.com</link>
-            <description>Test Description
-            <pubDate>Tue, 19 Mar 2025 10:00:00 GMT</pubDate>
-        </item> <!-- Missing closing tag -->
+            <description>Test Description</description>
+            <guid>2047</guid>
+            <pubDate>Thu, 20 Mar 2025 12:27:25 +0000</pubDate>
+        </item>
     </channel>
 </rss>
