@@ -8,7 +8,7 @@
             <title>Test Item</title>
             <link>http://example.com</link>
             <description>Test Description</description>
-            <guid>2047</guid>
+            <guid></guid>
             <pubDate>Thu, 20 Mar 2025 12:27:25 +0000</pubDate>
         </item>
     </channel>
